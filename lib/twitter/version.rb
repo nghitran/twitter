@@ -9,7 +9,7 @@ module Twitter
 
     # @return [Integer]
     def minor
-      17
+      18
     end
 
     # @return [Integer]
